@@ -1,6 +1,7 @@
 
 ![Alt text](image/image.png)
-Hotel Management System with SMS Notification
+
+###Hotel Management System with SMS Notification
 Welcome to the Hotel Management System project! This system is built using Django, a high-level Python web framework, and utilizes SQLite as its database. The primary goal of this project is to provide an efficient and user-friendly solution for managing hotel operations.
 
 
