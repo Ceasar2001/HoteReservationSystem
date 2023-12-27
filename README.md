@@ -9,7 +9,7 @@ Welcome to the Hotel Management System project! This system is built using Djang
 
 
 
-Features
+### Features
 User-friendly Interface: Navigate through the system effortlessly with a clean and intuitive user interface.
 Database: Utilize the power of SQLite to efficiently store and manage hotel-related data.
 Django Framework: Leverage the robust features of Django for rapid development and easy maintenance.
@@ -18,24 +18,24 @@ SMS Notification: Stay informed with SMS notifications for important updates and
 
 
 
-Installation
-Clone the repository:
+### Installation
+## Clone the repository:
 git clone https://github.com/Ceasar2001/HoteReservationSystem.git
 
-Navigate to the project directory:
+## Navigate to the project directory:
 cd room_slot
 
-Install All dependencies:
+## Install All dependencies:
 pip install -r requirements.txt
 
-Apply database migrations:
+## Apply database migrations:
 python manage.py migrate
 
-Run the development server:
+## Run the development server:
 python manage.py runserver
 
 
-Access the application at http://localhost:8000 in your web browser.
+### Access the application at http://localhost:8000 in your web browser.
 
 
-DON'T EVER FUCK UP THIS FUCKING CODE
+#### DON'T EVER FUCK UP THIS FUCKING CODE
